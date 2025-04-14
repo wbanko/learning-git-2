@@ -1,0 +1,3 @@
+npm install --save-dev html-validate
+
+npx html-validate "src/**/*.html"  / npx html-validate "*.html" 
